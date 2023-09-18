@@ -35,4 +35,4 @@
 |#|session|keywords|
 |:--:|:--:|:--:|
 | 1 | Code Cells💻 | [variable.assign](https://github.com/inseoda/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb) |
-|2|Five Types of Data📋|[number, string, list, tuple, dictionaly](https://github.com/inseoda/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
+|2|Five Types of Data📋|[number, string, list, tuple, dictionary](https://github.com/inseoda/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
