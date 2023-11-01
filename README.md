@@ -39,4 +39,4 @@
 |3|Indexing & Slicing 📌✂️	|:[, forward, backward, link +, repeat *, length len](https://github.com/inseoda/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
 |4|Statements 💡|[if ~:](https://github.com/inseoda/NLP_2023/blob/main/4_1_IfStatement.ipynb) [for ~:](https://github.com/inseoda/NLP_2023/blob/main/4_2_ForStatement.ipynb) [try~:](https://github.com/inseoda/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) [while~:](https://github.com/inseoda/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb)|
 |5|	Regular Expression| [🔍	re, meta characters](https://github.com/inseoda/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb)|
-
+|6| Functions ⌛	| [function, factor](https://github.com/inseoda/NLP_2023/blob/main/6_DefiningFunctions.ipynb)
